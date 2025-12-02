@@ -1,2 +1,15 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+**Professional Summary**
+
+Alexander Yakimov is a Senior DevOps Architect based in Bulgaria, with over five years of comprehensive experience in cloud architecture, software engineering, and DevSecOps. Proficient in both English and Bulgarian, he possesses an extensive technical skill set that includes expertise in cloud platforms such as Google Cloud Platform (GCP), Amazon Web Services (AWS), and Microsoft Azure, complemented by a solid foundation in networking and cybersecurity.
+
+Alexander holds multiple industry certifications, including AWS Certified Solutions Architect - Professional, Cisco Certified Network Professional (CCNP), and Google Cloud Platform - Associate Cloud Engineer. His career commenced at Technofy, where he developed his proficiency in cloud infrastructure engineering, network security, and automation technologies, subsequently leading to key roles with prestigious organizations such as SAP and Accenture.
+
+In his current position as a Senior DevOps Architect at SAP, he has played a critical role in deploying and managing sophisticated cloud infrastructure, focusing on automation, cloud security, and integration of CI/CD pipelines. His work has directly contributed to the development of sustainable materials within the SAP Business Technology Platform.
+
+During his tenure at Accenture, Alexander enhanced his skills as a Site Reliability Engineer on significant software projects, where he managed cloud security, configured development pipelines, and ensured seamless cross-technology administration. His technical repertoire includes proficiency in CI/CD tools, container orchestration (Docker, Kubernetes), and various SecOps and Infra-as-Code tools such as Terraform and Ansible.
+
+Previously, Alexander worked as a DevSecOps Engineer, collaborating with the tech teams at Airbus, and as a Network Security Administrator, where he managed security systems and conducted vulnerability assessments. His broad experience encompasses hands-on roles in security administration, system deployments, and performance monitoring in both cloud and on-premises environments.
+
+A graduate of New Bulgarian University, Alexander holds a Bachelor of Engineering in Telecommunications Systems Engineering. He continues to deepen his knowledge in emerging fields like Artificial Intelligence, Machine Learning, and Data Science, positioning himself at the forefront of technology trends.
+
+With a commitment to delivering effective, innovative solutions, Alexander Yakimov is a versatile and resourceful professional dedicated to leveraging cloud technologies and improving operational efficiencies across various domains in the tech industry.
